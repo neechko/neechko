@@ -47,6 +47,7 @@ I am a beginner who recently started this journey, currently building Discord bo
   <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
+  <img src="https://img.shields.io/badge/Minecraft_Java_Server-62B47A?style=for-the-badge&logo=java&logoColor=white" />
 </p>
 
 
@@ -61,7 +62,7 @@ A Discord bot with an AI companion (using rolling summaries and memory facts ins
 
 <p align="left">
   <a href="https://github.com/neechko"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/Discord-neechko-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  <img src="https://img.shields.io/badge/Discord-@meroo__-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
 </p>
 
 ## GitHub Stats
