@@ -1,10 +1,7 @@
 ## Hi there 👋
-
 <!--
 **neechko/neechko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,7 +11,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
 <p align="center">
   <img src="assets/cover.jpg" alt="cover" width="100%">
 </p>
@@ -22,7 +18,7 @@ Here are some ideas to get you started:
 <h1 align="center">neechko</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Georgia&size=20&pause=1500&color=6CA6CD&center=true&vCenter=true&width=460&lines=Backend+Developer;Discord+Bot+Creator;Node.js+%26+AI+Integration" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com/?font=Georgia&size=20&pause=1500&color=6CA6CD&center=true&vCenter=true&width=460&lines=Aspiring+Backend+Developer;Discord+Bot+Creator;Node.js+%26+AI+Integration" alt="Typing SVG">
 </p>
 
 <p align="center">
@@ -32,9 +28,9 @@ Here are some ideas to get you started:
 
 ---
 
-## Tentang Saya
+## About Me
 
-Saya adalah pemula yang baru terjun ke sini dan sedang membangun bot Discord dengan integrasi AI dan API pihak ketiga. Salah satunya **Mokachan**, bot companion berbasis Gemini yang juga memiliki sistem claim karakter anime otomatis dari AniList. Tertarik pada pengembangan backend, otomasi, dan hal-hal yang menghubungkan berbagai API.
+I am a beginner who recently started this journey, currently building Discord bots with AI and third-party API integrations. One of my projects is **Mokachan**, a Gemini-based AI companion bot that also features an automatic anime character claiming system powered by the AniList API. I am interested in backend development, automation, and connecting different APIs together.
 
 ## Tech Stack
 
@@ -47,21 +43,21 @@ Saya adalah pemula yang baru terjun ke sini dan sedang membangun bot Discord den
   <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
 </p>
 
-## Proyek Unggulan
+## Featured Project
 
 **Mokachan**
-Bot Discord dengan AI companion (rolling summary dan memory facts, bukan riwayat mentah) serta sistem claim karakter anime otomatis dari AniList API. Seluruh data tersimpan di SQLite dengan tabel yang dibuat otomatis saat bot pertama kali dijalankan.
+A Discord bot with an AI companion (using rolling summaries and memory facts instead of raw chat history) and an automatic anime character claiming system powered by the AniList API. All data is stored in SQLite, with new tables created automatically the first time the bot runs.
 
 `Node.js` `Gemini API` `AniList API` `SQLite`
 
-## Terhubung
+## Connect
 
 <p align="left">
   <a href="https://github.com/neechko"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/Discord-neechko-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
 </p>
 
-## Statistik GitHub
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats-ruby-zeta-44.vercel.app/api?username=neechko&show_icons=true&theme=transparent&hide_border=true&title_color=6CA6CD&icon_color=6CA6CD&text_color=8b95a5" width="48%" />
