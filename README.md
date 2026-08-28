@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 ## Tentang Saya
 
-Saya membangun bot Discord dengan integrasi AI dan API pihak ketiga. Salah satunya **Mokachan**, bot companion berbasis Gemini yang juga memiliki sistem claim karakter anime otomatis dari AniList. Tertarik pada pengembangan backend, otomasi, dan hal-hal yang menghubungkan berbagai API menjadi satu pengalaman yang mulus.
+Saya adalah pemula yang baru terjun ke sini dan sedang membangun bot Discord dengan integrasi AI dan API pihak ketiga. Salah satunya **Mokachan**, bot companion berbasis Gemini yang juga memiliki sistem claim karakter anime otomatis dari AniList. Tertarik pada pengembangan backend, otomasi, dan hal-hal yang menghubungkan berbagai API.
 
 ## Tech Stack
 
