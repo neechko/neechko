@@ -42,13 +42,13 @@ I am a beginner who recently started this journey, currently building Discord bo
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
   <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
   <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
   <img src="https://img.shields.io/badge/Minecraft_Java_Server-62B47A?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
 
@@ -57,7 +57,7 @@ I am a beginner who recently started this journey, currently building Discord bo
 **Mokachan**
 A Discord bot with an AI companion (using rolling summaries and memory facts instead of raw chat history) and an automatic anime character claiming system powered by the AniList API. All data is stored in SQLite, with new tables created automatically the first time the bot runs.
 
-`Node.js` `Gemini API` `AniList API` `SQLite`
+`Node.js` `Gemini API` `AniList API` `LRCLIB API` `SQLite`
 
 ## Connect
 
