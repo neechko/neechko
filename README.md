@@ -63,7 +63,7 @@ A Discord bot with an AI companion (using rolling summaries and memory facts ins
 
 <p align="left">
   <a href="https://github.com/neechko"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/Discord-@meroo_______-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  <img src="https://img.shields.io/badge/Discord-@meroo____-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
 </p>
 
 ## GitHub Stats
