@@ -61,7 +61,7 @@ Bot Discord dengan AI companion (rolling summary dan memory facts, bukan riwayat
   <img src="https://img.shields.io/badge/Discord-neechko-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
 </p>
 
-## Statistik GitHub
+<!-- ## Statistik GitHub
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=neechko&show_icons=true&theme=transparent&hide_border=true&title_color=6CA6CD&icon_color=6CA6CD&text_color=8b95a5" width="48%" />
@@ -70,4 +70,4 @@ Bot Discord dengan AI companion (rolling summary dan memory facts, bukan riwayat
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=neechko&theme=transparent&hide_border=true&ring=6CA6CD&fire=6CA6CD&currStreakLabel=6CA6CD" />
-</p>
+</p> -->
