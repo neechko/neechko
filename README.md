@@ -15,7 +15,7 @@ Here are some ideas to get you started:
   <img src="assets/cover.jpg" alt="cover" width="100%">
 </p>
 
-<h1 align="center">neechko</h1>
+<h1 align="center">meroo__</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Georgia&size=20&pause=1500&color=6CA6CD&center=true&vCenter=true&width=460&lines=Aspiring+Backend+Developer;Discord+Bot+Creator;Node.js+%26+AI+Integration" alt="Typing SVG">
